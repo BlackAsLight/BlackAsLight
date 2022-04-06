@@ -1,8 +1,8 @@
 # Hey
 
 I'm BlackAsLight, but most people call me Doctor.
- - 🔭 I’m currently working on some private repositories that are none of your business untill/unless I make them public. The public repositories by me that aren't archived are still actively maintained by me and receive new features etc, when they pop into my head.
- - 🌱 I’m currently learning C/C++, Swift, and Lua. I already know HTML/CSS, JavaScript/TypeScript and some basic levels of Java, although I am not a fan of Java.
+ - 🔭 I’m currently working on some private repositories that are none of your business until/unless I make them public. The public repositories by me that aren't archived are still actively maintained by me and receive new features etc, when they pop into my head.
+ - 🌱 I’m currently learning Rust, and Swift. I already know HTML/CSS, JavaScript/TypeScript and some basic levels of Java and Lua, although I am not a fan of Java or Lua.
  - 📫 How to reach me: You can reach me on discord. My username is Doctor#4293
 
 <!--
